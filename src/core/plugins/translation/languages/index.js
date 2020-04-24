@@ -1,2 +1,5 @@
 export en from "./en"
+export en_GB from "./en_GB"
 export ru from "./ru"
+export fi from "./fi"
+export sv from "./sv"
